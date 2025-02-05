@@ -45,3 +45,6 @@ function pad(value) {
 
 document.getElementById("startStopButton").addEventListener("click", startStop);
 document.getElementById("resetButton").addEventListener("click", reset);
+
+
+// added comment to the project
