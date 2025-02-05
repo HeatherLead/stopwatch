@@ -48,3 +48,4 @@ document.getElementById("resetButton").addEventListener("click", reset);
 
 
 // added comment to the project
+//solve the bugs present
